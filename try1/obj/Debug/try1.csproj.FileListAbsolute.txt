@@ -1,7 +1,0 @@
-C:\Users\Hp\OneDrive\Documents\C#\try1\bin\Debug\try1.exe.config
-C:\Users\Hp\OneDrive\Documents\C#\try1\bin\Debug\try1.exe
-C:\Users\Hp\OneDrive\Documents\C#\try1\bin\Debug\try1.pdb
-C:\Users\Hp\OneDrive\Documents\C#\try1\obj\Debug\try1.csproj.AssemblyReference.cache
-C:\Users\Hp\OneDrive\Documents\C#\try1\obj\Debug\try1.csproj.CoreCompileInputs.cache
-C:\Users\Hp\OneDrive\Documents\C#\try1\obj\Debug\try1.exe
-C:\Users\Hp\OneDrive\Documents\C#\try1\obj\Debug\try1.pdb
